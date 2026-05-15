@@ -1,0 +1,14 @@
+.editor-wrapper {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  min-height: 400px;
+}
+
+.tiptap {
+  outline: none;
+  font-size: 16px;
+  line-height: 1.6;
+}
